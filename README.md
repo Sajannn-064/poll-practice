@@ -5,9 +5,7 @@ A small web app where people create a poll, share a link, vote, and watch the re
 Built as a 14-day, 1-hour-a-day practice sprint, by two people working in one repo.
  
 ## Progress
- 
-Tick these off as you build them (change `[ ]` to `[x]`).
- 
+  
 **Core**
 - [ ] Create a poll
 - [ ] View a poll
@@ -49,7 +47,6 @@ poll-practice/
 └── README.md
 ```
  
-Adjust this to match the real folders once they exist.
  
 ## Run it locally
  
