@@ -2,7 +2,7 @@
  
 A small web app where people create a poll, share a link, vote, and watch the results update live on every screen.
  
-Built as a 14-day, 1-hour-a-day practice sprint to prepare for a hackathon, by two people working in one repo.
+Built as a 14-day, 1-hour-a-day practice sprint, by two people working in one repo.
  
 ## Progress
  
