@@ -85,7 +85,7 @@ Never commit real keys. Copy `.env.example` to `.env` and fill in the values.
  
 | Name | Where | What it is |
 |---|---|---|
-| `GEMINI_API_KEY` | backend | Your Google Gemini API key |
+| `GEMINI_API_KEY` | backend |  Google Gemini API key |
 | `VITE_API_URL` | frontend | Address of the backend, e.g. `http://127.0.0.1:8000` |
  
 ## API endpoints
@@ -127,5 +127,4 @@ A poll looks like this:
 - **Person 2:** stats, CSV export, stats panel, share box, poll templates
 ## Live demo
  
-Add the deployed link here after Day 10.
- 
+link-- 
